@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: shaikmustafa/cycle
+        image: shaikmustafa/dm
         ports:
         - containerPort: 80   # Use port 80
 
